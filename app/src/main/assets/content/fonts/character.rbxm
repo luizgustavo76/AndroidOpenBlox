@@ -1,0 +1,7 @@
+<roblox version="4">
+  <Item class="Model">
+    <Properties>
+      <string name="Name">Player</string>
+    </Properties>
+  </Item>
+</roblox>

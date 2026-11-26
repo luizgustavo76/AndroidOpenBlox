@@ -1,0 +1,57 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		INJECTED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml
+uses-feature#0x00010001
+ADDED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:6:5-78
+	android:glEsVersion
+		ADDED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:6:19-51
+	android:required
+		ADDED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:6:52-75
+application
+ADDED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:8:5-19:19
+INJECTED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:8:5-19:19
+	android:extractNativeLibs
+		INJECTED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:8:18-42
+activity#com.openblox.android.MainActivity
+ADDED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:9:9-18:20
+	android:screenOrientation
+		ADDED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:12:13-50
+	android:exported
+		ADDED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:11:13-36
+	android:theme
+		ADDED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:10:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml
+INJECTED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/luiz/OpenBLOX_Android/app/src/main/AndroidManifest.xml
